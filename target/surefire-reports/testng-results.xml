@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="146" started-at="2018-03-15T19:43:56Z" finished-at="2018-03-15T19:43:56Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="146" started-at="2018-03-15T19:43:56Z" finished-at="2018-03-15T19:43:56Z">
+      <class name="Maven.test1Test">
+        <test-method status="PASS" signature="m1()[pri:0, instance:Maven.test1Test@12050f6]" name="m1" duration-ms="10" started-at="2018-03-16T01:13:56Z" finished-at="2018-03-16T01:13:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method status="PASS" signature="m11()[pri:0, instance:Maven.test1Test@12050f6]" name="m11" duration-ms="0" started-at="2018-03-16T01:13:56Z" finished-at="2018-03-16T01:13:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m11 -->
+      </class> <!-- Maven.test1Test -->
+      <class name="Maven.test2Test">
+        <test-method status="PASS" signature="m4()[pri:0, instance:Maven.test2Test@1fee20c]" name="m4" duration-ms="1" started-at="2018-03-16T01:13:56Z" finished-at="2018-03-16T01:13:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m4 -->
+        <test-method status="PASS" signature="m3()[pri:0, instance:Maven.test2Test@1fee20c]" name="m3" duration-ms="0" started-at="2018-03-16T01:13:56Z" finished-at="2018-03-16T01:13:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m3 -->
+      </class> <!-- Maven.test2Test -->
+      <class name="Maven.test3Test">
+        <test-method status="PASS" signature="m5()[pri:0, instance:Maven.test3Test@4a765]" name="m5" duration-ms="1" started-at="2018-03-16T01:13:56Z" finished-at="2018-03-16T01:13:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m5 -->
+        <test-method status="PASS" signature="m6()[pri:0, instance:Maven.test3Test@4a765]" name="m6" duration-ms="0" started-at="2018-03-16T01:13:56Z" finished-at="2018-03-16T01:13:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m6 -->
+      </class> <!-- Maven.test3Test -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
